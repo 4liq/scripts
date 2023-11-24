@@ -5,6 +5,7 @@ PARAM (
 # -==================-
 # Desc:     Generates dacpacs from target server 
 #           and deploys them on localhost
+#           NOTE: This is an old version of dbMirror
 # Author:   abebalmao
 # Date:     2023-08-14
 # Version:  1.0
